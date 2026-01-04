@@ -71,7 +71,4 @@ Dataset fields:
 
 **Key observation:** Naïve Bayes performed best and remained computationally efficient, which is common for sparse TF-IDF text features.
 
----
-
-## Repository Structure
 
