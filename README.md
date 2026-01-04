@@ -1,4 +1,4 @@
-# AG News Classification using NLP + Machine Learning
+# AG News Classification using NLP and Machine Learning
 
 This project builds an end-to-end text classification pipeline to classify news articles into **four categories** using **NLP preprocessing**, **TF-IDF feature extraction**, and **machine learning models**.
 
