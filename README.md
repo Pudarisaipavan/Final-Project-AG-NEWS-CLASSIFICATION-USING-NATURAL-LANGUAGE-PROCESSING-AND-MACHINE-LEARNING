@@ -65,9 +65,9 @@ Dataset fields:
 
 | Model | Accuracy |
 |------|----------|
-| Random Forest | ~0.80 |
-| KNN | ~0.89 |
-| Multinomial Naïve Bayes | ~0.893 (Best) |
+| Random Forest | 0.80 |
+| KNN | 0.89 |
+| Multinomial Naive Bayes | 0.893 (Best) |
 
 **Key observation:** Naïve Bayes performed best and remained computationally efficient, which is common for sparse TF-IDF text features.
 
